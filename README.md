@@ -6,7 +6,7 @@ MSc MMORSE (Mathematics, Operational Research, Statistics & Economics), Universi
 
 ## Research
 
-**"Oh, That Looks Familiar: A Novel Similarity Measure for Spreadsheet Template Discovery"**
+[**"Oh, That Looks Familiar: A Novel Similarity Measure for Spreadsheet Template Discovery"**](https://arxiv.org/abs/2511.06973)
 Accepted at EuroIPS: AI for Tabular Data Workshop (2025). A hybrid semantic-structural embedding method combining Sentence-BERT with graph-based structural features for discovering reusable templates across 100K+ enterprise spreadsheets.
 
 ## Highlighted projects
